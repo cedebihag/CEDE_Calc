@@ -1,2 +1,2 @@
 # CEDE_Calc
-Basic Python Calculator
+Basic Python Calculator with GUI
